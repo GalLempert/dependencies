@@ -12,9 +12,9 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-boot-version>3.3.6</spring-boot-version>
-        <spring-version>6.1.15</spring-version>
-        <hibernate-version>6.1.7.Final</hibernate-version>
+        <spring-boot-version>3.3.6</spring-boot-version> // version in 17: 3.1.2
+        <spring-version>6.1.15</spring-version> // version in 17: 6.0.11
+        <hibernate-version>6.1.7.Final</hibernate-version> // https://hibernate.atlassian.net/browse/HHH-16957
     </properties>
 
     <dependencies>
